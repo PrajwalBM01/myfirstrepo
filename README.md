@@ -1,4 +1,4 @@
 # myfirstrepo
 This is my first Git Repository.
 <br>
-project managed by - PrajwalBM
+project managed by - BM Prajwal
